@@ -1,10 +1,13 @@
 # GitHub Actions Practice
 
 [![CI][CI-image]][CI-url]
+[![docs-build][docs-build-image]][docs-build-url]
 [![node version][node-image]][node-url]
 
 [CI-image]: https://github.com/snapre/github-actions-practice/actions/workflows/ci.yml/badge.svg
 [CI-url]: https://github.com/snapre/github-actions-practice/actions/workflows/ci.yml
+[docs-build-image]: https://github.com/snapre/github-actions-practice/actions/workflows/docs-build.yml/badge.svg
+[docs-build-url]: https://github.com/snapre/github-actions-practice/actions/workflows/docs-build.yml
 [node-image]: https://img.shields.io/badge/node.js-%3E=_12-green.svg?logo=node.js
 [node-url]: http://nodejs.org
 
