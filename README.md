@@ -39,7 +39,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        os: [ ubuntu-latest, macOs-latest ]
+        os: [ ubuntu-latest, macOS-latest ]
         node-version: [ 12, 14, 16 ]
     steps:
       - name: Checkout Git Source
