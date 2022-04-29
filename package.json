@@ -1,0 +1,30 @@
+{
+  "name": "github-actions-practice",
+  "version": "1.0.0",
+  "description": "github actions practice",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "contributor": "git-contributor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snapre/github-actions-practice.git"
+  },
+  "keywords": [
+    "github",
+    "actions"
+  ],
+  "author": "snapre <https://github.com/snapre>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snapre/github-actions-practice/issues"
+  },
+  "homepage": "https://github.com/snapre/github-actions-practice#readme",
+  "devDependencies": {
+    "git-contributor": "^1.1.0"
+  }
+}
