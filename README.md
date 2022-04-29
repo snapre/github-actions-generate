@@ -20,6 +20,6 @@ Practice GitHub Actions & How to write a good actions `.yml` file.
 | :---: |
 
 
-This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Fri Apr 29 2022 13:06:32 GMT+0800`.
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Fri Apr 29 2022 13:20:24 GMT+0800`.
 
 <!-- GITCONTRIBUTOR_END -->
