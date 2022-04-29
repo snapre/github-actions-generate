@@ -7,6 +7,9 @@
     "doc": "docs"
   },
   "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs",
     "test": "echo \"Error: no test specified\" && exit 1",
     "contributor": "git-contributor"
   },
@@ -25,6 +28,7 @@
   },
   "homepage": "https://github.com/snapre/github-actions-practice#readme",
   "devDependencies": {
-    "git-contributor": "^1.1.0"
+    "git-contributor": "^1.1.0",
+    "vitepress": "^0.22.3"
   }
 }
