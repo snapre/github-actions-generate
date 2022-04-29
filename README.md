@@ -1,4 +1,4 @@
-# github-actions-practice
+# GitHub Actions Practice
 
 [![CI][CI-image]][CI-url]
 [![node version][node-image]][node-url]
