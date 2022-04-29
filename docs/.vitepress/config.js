@@ -4,7 +4,7 @@ export default defineConfig({
   lang: 'en-US',
   title: 'GitHub Actions Practice',
   description: 'GitHub Actions good configuration .yml file.',
-  base: 'github-actions-practice',
+  base: '/github-actions-practice/',
   lastUpdated: true,
 
   themeConfig: {
