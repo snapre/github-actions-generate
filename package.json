@@ -6,6 +6,12 @@
   "directories": {
     "doc": "docs"
   },
+  "bin": {
+    "gha": "./app.js"
+  },
+  "files": [
+    "app.js"
+  ],
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
@@ -19,7 +25,8 @@
   },
   "keywords": [
     "github",
-    "actions"
+    "actions",
+    "generate"
   ],
   "author": "snapre <https://github.com/snapre>",
   "license": "ISC",
@@ -29,7 +36,7 @@
   "homepage": "https://github.com/snapre/github-actions-practice#readme",
   "devDependencies": {
     "git-contributor": "^1.1.0",
-    "sqlite3": "^5.0.2",
+    "sqlite3": "5.0.2",
     "vitepress": "^0.22.3"
   }
 }
