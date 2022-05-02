@@ -1,7 +1,7 @@
 {
-  "name": "github-actions-practice",
+  "name": "github-actions-generate",
   "version": "1.0.0",
-  "description": "github actions practice",
+  "description": "github actions generate",
   "main": "app.js",
   "directories": {
     "doc": "docs"
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snapre/github-actions-practice.git"
+    "url": "git+https://github.com/snapre/github-actions-generate.git"
   },
   "keywords": [
     "github",
@@ -31,9 +31,9 @@
   "author": "snapre <https://github.com/snapre>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/snapre/github-actions-practice/issues"
+    "url": "https://github.com/snapre/github-actions-generate/issues"
   },
-  "homepage": "https://github.com/snapre/github-actions-practice#readme",
+  "homepage": "https://github.com/snapre/github-actions-generate#readme",
   "devDependencies": {
     "git-contributor": "^1.1.0",
     "sqlite3": "5.0.2",

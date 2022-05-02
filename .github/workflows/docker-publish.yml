@@ -8,7 +8,7 @@ on:
 jobs:
   Docker-Publish:
     # prevents this action from running on forks
-    if: github.repository == 'snapre/github-actions-practiceeeeeeeeeeeeee'
+    if: github.repository == 'snapre/github-actions-generateeeeeeeeeeeeee'
     runs-on: ubuntu-latest
     steps:
       -
@@ -28,4 +28,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: snapre/github-actions-practice:latest
+          tags: snapre/github-actions-generate:latest

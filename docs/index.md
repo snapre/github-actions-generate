@@ -1,6 +1,6 @@
 ## Introduction
 
-Practice GitHub Actions & How to write a good actions `.yml` file.
+Generate GitHub Actions & How to write a good actions `.yml` file.
 
 ## Awesome configuration file
 
